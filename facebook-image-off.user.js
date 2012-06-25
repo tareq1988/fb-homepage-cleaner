@@ -1,7 +1,7 @@
 // ==UserScript==
 // @author          Tareq Hasan
 // @author_uri      http://tareq.weDevs.com
-// @name            FB Image Remover
+// @name            FB Homepage Cleaner
 // @namespace       fb
 // @description     Removes all gallery image from homepage
 // @include         https://*.facebook.com/*
